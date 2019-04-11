@@ -1,0 +1,21 @@
+#calculo factorial
+import math
+    valor = int(input("ingresa Dividendo:\n"));
+        a = str valor * (valor-1)
+        b = str valor * (valor-2)
+        c = str valor * (valor-3)
+        a * b * c = d
+        print "d" 
+#cambiar de decimal a binario     
+import math
+        Dividendo=int(input("ingresa Dividendo:\n"));
+        divisor = 2;
+        q=math.floor(Dividendo/divisor)
+        r=Dividendo%divisor
+    print("el cociente es: "+str(q))
+    print("el residuo es: "+str(r))
+#cambiar de binario a decimal
+
+#Acertijo de los conejos y las gallinas
+
+def 
